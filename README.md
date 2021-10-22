@@ -1,2 +1,8 @@
 # utest
 Ubuntu debug pipeline
+
+# Start script:
+curl -s "https://github.com/siaomingjeng/utest/blob/79688ab3734e2278e96eb99515b2c793c64845d7/env_prepare_general.sh"|bash>/root/custom_script_result.txt 2>&1
+
+# Base64:
+Y3VybCAtcyAiaHR0cHM6Ly9naXRodWIuY29tL3NpYW9taW5namVuZy91dGVzdC9ibG9iLzc5Njg4YWIzNzM0ZTIyNzhlOTZlYjk5NTE1YjJjNzkzYzY0ODQ1ZDcvZW52X3ByZXBhcmVfZ2VuZXJhbC5zaCJ8YmFzaD4vcm9vdC9jdXN0b21fc2NyaXB0X3Jlc3VsdC50eHQgMj4mMQo=
