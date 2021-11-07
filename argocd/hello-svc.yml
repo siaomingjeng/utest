@@ -3,7 +3,7 @@ kind: Service
 metadata:
   labels:
     app: hello-world
-  name: hello-world
+  name: svc-hello-world
 spec:
   ports:
   - port: 80
